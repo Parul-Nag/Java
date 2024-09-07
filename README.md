@@ -1,1 +1,1 @@
-Here are my some Java programs. 
+Here are some of my Java programs. 
